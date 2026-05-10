@@ -1,6 +1,6 @@
 # BOSC Community Library
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)
 ![Status](https://img.shields.io/badge/status-alpha-orange)
 
 A community-driven library of reusable, secure, and scalable wireless communication modules.

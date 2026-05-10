@@ -9,7 +9,7 @@
 ## Reporting a Vulnerability
 Please do NOT open public issues for security vulnerabilities.
 
-Email: bosc-security@example.com
+Email: alvinddemb@gmail.com
 
 You can expect:
 - Acknowledgment within 48 hours
